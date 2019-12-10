@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Showbot</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="real_time_stock_market_analyzer">REAL TIME STOCK MARKET ANALYZER</string>
+    <string name="stocks">STOCKS</string>
+    <string name="todo">TODO</string>
+    <string name="stockslist">STOCKS LIST</string>
+    <string name="stocks_list">Stocks List</string>
+    <string name="help">HELP</string>
+    <string name="quotes">Quotes</string>
+    <string name="portfolio">PORTFOLIO</string>
+    <string name="showbot">showbot</string>
+    <string name="stock_market_view">STOCK-MARKET-VIEW</string>
+    <string name="bsesensex">BSE/SENSEX</string>
+    <string name="nsenifty">NSE/NIFTY</string>
+    <string name="stockmarketview">STOCK-MARKET-VIEW</string>
+    <string name="bse_sensex">BSE/SENSEX</string>
+    <string name="to__do">TODO</string>
+    <string name="portfolio_managed_by_et">PORTFOLIO | managed by ET</string>
+    <string name="to_do">TODO</string>
+    <string name="to___do">TODO</string>
+    <string name="nse_nifty">NSE/NIFTY</string>
+
+</resources>
